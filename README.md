@@ -10,7 +10,7 @@ Sitio informativo del Programa Regional de Formación en Género y Políticas P�
 
 ## Qué contiene
 
-- `index.html` (Inicio), `el-prigepp.html`, `equipo.html`, `maestria.html`, `diploma-genero-justicia.html`, `admisiones.html`, `publicaciones.html`, `tesis.html`, `conferencias.html`, `contacto.html`.
+- `index.html` (Inicio), `el-prigepp.html`, `equipo.html`, `maestria.html`, `diploma-genero-ambiente.html` (y `diploma-genero-justicia.html`, que solo redirige a la página nueva), `admisiones.html`, `publicaciones.html`, `tesis.html`, `conferencias.html`, `contacto.html`.
 - `tesis.json`: datos del repositorio de tesis (lo usa el buscador de `tesis.html`; debe estar junto a las páginas).
 - Los logos van incluidos dentro de cada página: no hay archivos de imagen aparte.
 
